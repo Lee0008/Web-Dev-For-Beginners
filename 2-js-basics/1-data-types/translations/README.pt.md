@@ -4,11 +4,13 @@
 > Sketchnote por [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## Quiz Pré-Aula
-[Quiz Pré-Aula](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/7)
+[Quiz Pré-Aula](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/7)
 
 Esta lição cobre o básico do JavaScript, a linguagem que fornece interatividade na web.
 
-[![Tipos de dados em JavaScriptt](https://img.youtube.com/vi/JNIXfGiDWM8/0.jpg)](https://youtube.com/watch?v=JNIXfGiDWM8 "Tipos de dados em JavaScript")
+[![Variáveis](https://img.youtube.com/vi/u_aLTZHsclg/0.jpg)](https://youtube.com/watch?v=u_aLTZHsclg "Variáveis")
+
+[![Data Types](https://img.youtube.com/vi/ylaZV-UKTe4/0.jpg)](https://youtube.com/watch?v=ylaZV-UKTe4 "Data Types")
 
 
 Vamos começar com variáveis e os tipos de dados que as preenchem!
@@ -116,13 +118,13 @@ As variáveis podem armazenar todos os tipos de números, incluindo decimais ou 
 
 Existem vários tipos de operadores para usar ao executar funções aritméticas, e alguns estão listados aqui:
 
-| Símbolo | Descrição                                                              | Examplo                          |
-| ------ | ------------------------------------------------------------------------ | -------------------------------- |
-| `+`    | **Adição**: Calcula a soma de dois números                          | `1 + 2 //a resposta esperada é 3`   |
-| `-`    | **Subitração**: Calcula a diferença de dois números                | `1 - 2 //a resposta esperada é -1`  |
-| `*`    | **Multiplicação**: Calcula o produto de dois números                | `1 * 2 //a resposta esperada é 2`   |
-| `/`    | **Divisão**: Calcula o quociente de dois números                     | `1 / 2 //a resposta esperada é 0.5` |
-| `%`    | **Restante**: Calcula o resto da divisão de dois números | `1 % 2 //a resposta esperada é 1`   |
+| Símbolo | Descrição                                                | Examplo                             |
+| ------- | -------------------------------------------------------- | ----------------------------------- |
+| `+`     | **Adição**: Calcula a soma de dois números               | `1 + 2 //a resposta esperada é 3`   |
+| `-`     | **Subitração**: Calcula a diferença de dois números      | `1 - 2 //a resposta esperada é -1`  |
+| `*`     | **Multiplicação**: Calcula o produto de dois números     | `1 * 2 //a resposta esperada é 2`   |
+| `/`     | **Divisão**: Calcula o quociente de dois números         | `1 / 2 //a resposta esperada é 0.5` |
+| `%`     | **Restante**: Calcula o resto da divisão de dois números | `1 % 2 //a resposta esperada é 1`   |
 
 ✅ Tente isso! Tente uma operação aritmética no console do seu navegador. Os resultados surpreendem você?
 
@@ -184,7 +186,7 @@ Os booleanos podem ter apenas dois valores: `true` ou` false`. Os booleanos pode
 JavaScript é notório por suas maneiras surpreendentes de lidar com tipos de dados ocasionalmente. Pesquise sobre essas 'pegadinhas'. Por exemplo: a diferenciação de maiúsculas e minúsculas pode afetar! Tente isto em seu console: `let age = 1; deixe Idade = 2; age == Age` (resolve `false` - por quê?). Que outras dicas você pode encontrar?
 
 ## Quiz Pós-Aula
-[Quiz Pós-Aula](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/8)
+[Quiz Pós-Aula](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/8)
 
 ## Revisão e autoestudo
 

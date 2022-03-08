@@ -5,7 +5,7 @@
 
 ## 课前测试
 
-[课前测试](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/15?loc=zh_cn)
+[课前测试](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/15?loc=zh_cn)
 
 ### 介绍
 
@@ -48,18 +48,18 @@ HTML 文件的第一行就是文档类型声明。要将这一行内容放在文
 <html></html>
 ```
 
-✅ 通过设置带有查询字符串（query string）的 DocType 可以设定几种不同的模式：[怪异模式与标准模式](https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode)。这些模式用于支持现在非常不常用的古老浏览器(Netscape Navigator 4 和 Internet Explorer 5)。你仍可以使用标准的文档类型声明。
+✅ 通过设置带有查询字符串（query string）的 DocType 可以设定几种不同的模式：[怪异模式与标准模式](https://developer.mozilla.org/docs/Web/HTML/Quirks_Mode_and_Standards_Mode)。这些模式用于支持现在非常不常用的古老浏览器(Netscape Navigator 4 和 Internet Explorer 5)。你仍可以使用标准的文档类型声明。
 
 ---
 
 ## 文档的 'head'（脑袋）
 
-HTML 文档中的 'head' 包含的区域有很多关于页面的重要信息，它也被称作[元数据(metadata)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)。在我们的例子中，我们告诉 web 服务器这个页面将依据哪些信息被发送进行渲染，主要是四种:
+HTML 文档中的 'head' 包含的区域有很多关于页面的重要信息，它也被称作[元数据(metadata)](https://developer.mozilla.org/docs/Web/HTML/Element/meta)。在我们的例子中，我们告诉 web 服务器这个页面将依据哪些信息被发送进行渲染，主要是四种:
 
 -   网页的标题
 -   网页的元数据，它包含：
     -   字符集(Character Set)，说明在页面中使用的字符编码。
-    -   浏览器信息，包括 `x-ua-compatible`，表示支持IE=edge浏览器
+    -   浏览器信息，包括 `x-ua-compatible`，表示支持 IE=edge 浏览器
     -   关于视图在加载时应该如何表现的信息。将视口设置为初始比例为 1 可以控制页面首次加载时的缩放级别。
 
 ### 任务
@@ -75,7 +75,7 @@ HTML 文档中的 'head' 包含的区域有很多关于页面的重要信息，�
 </head>
 ```
 
-✅ 当你把视图信息标签的内容设置成这个样子 `<meta name="viewport" content="width=600">` 会发生什么事情？ 请阅读更多关于[Viewport](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)的信息吧。
+✅ 当你把视图信息标签的内容设置成这个样子 `<meta name="viewport" content="width=600">` 会发生什么事情？ 请阅读更多关于 [Viewport](https://developer.mozilla.org/docs/Web/HTML/Viewport_meta_tag) 的信息吧。
 
 ---
 
@@ -83,7 +83,7 @@ HTML 文档中的 'head' 包含的区域有很多关于页面的重要信息，�
 
 ### HTML 标签
 
-在 HTML 中，往你的 .html 文档中添加标签去创建元素到你的页面中。每个标签都通常都有一个开始标签和结束标签，像是：`<p>hello</p>` 就表明是一个段落。 使用一组 `<body>` 标签放在`<html>` 标签中以创建你界面的身体部分，现在你的文档应该变成下面这样：
+在 HTML 中，往你的 .html 文档中添加标签去创建元素到你的页面中。每个标签都通常都有一个开始标签和结束标签，像是：`<p>hello</p>` 就表明是一个段落。 使用一组 `<body>` 标签放在 `<html>` 标签中以创建你界面的身体部分，现在你的文档应该变成下面这样：
 
 ### 任务
 
@@ -187,6 +187,8 @@ HTML 文档中的 'head' 包含的区域有很多关于页面的重要信息，�
 
 ✅ 看看屏幕阅读器是[如何去处理的一个网页的](https://www.youtube.com/watch?v=OUDV1gqs9GA)。你看到了非语义化标签对他们造成的障碍了吗？
 
+---
+
 ## 花艺瓶
 
 这个界面的最后一部分涉及创建标记，这些标记后面将被装饰成一个花艺瓶。
@@ -213,19 +215,19 @@ HTML 文档中的 'head' 包含的区域有很多关于页面的重要信息，�
 
 ## 🚀 挑战
 
-HTML 中还有一些狂野的'旧'标签，玩起来仍然很有趣。虽然[这些标签](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Obsolete_and_deprecated_elements)不推荐你使用，但是，你还是可以试试，能否用 `<marquee>` 标签让 h1 标题文字变成纵向展示的吗？（如果你这么尝试了，不要忘了在后面移除它们）
+HTML 中还有一些狂野的'旧'标签，玩起来仍然很有趣。虽然[这些标签](https://developer.mozilla.org/docs/Web/HTML/Element#Obsolete_and_deprecated_elements)不推荐你使用，但是，你还是可以试试，能否用 `<marquee>` 标签让 h1 标题文字变成纵向展示的吗？（如果你这么尝试了，不要忘了在后面移除它们）
 
 ## 课后测试
 
-[课后测试](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/16?loc=zh_ch)
+[课后测试](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/16?loc=zh_cn)
 
 ## 复习 & 预习
 
 HTML是 '久经考验的' 构建模块系统，它帮助构建了今天的 web 。通过研究一些旧的和新的标签来了解它的历史。你能找出为什么有些标签被弃用而有些被添加吗？未来可能引入哪些标签？
 
-要了解更多关于为web和移动设备建立网站的信息，请访问：[Microsoft Learn](https://docs.microsoft.com/learn/modules/build-simple-website/?WT.mc_id=academic-13441-cxa)。
+要了解更多关于为 web 和移动设备建立网站的信息，请访问：[Microsoft Learn](https://docs.microsoft.com/learn/modules/build-simple-website/?WT.mc_id=academic-13441-cxa)。
 
 
 ## 作业
 
-[练习你的 HTML：建立一个博客模型](assignment.zh-tw.md)
+[练习你的 HTML：建立一个博客模型](assignment.zh-cn.md)
